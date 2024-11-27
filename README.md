@@ -77,6 +77,10 @@ The calculator includes robust error handling for:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Acknowledgments
 
 - Icons provided by [Lucide Icons](https://lucide.dev)
